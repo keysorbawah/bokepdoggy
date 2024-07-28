@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepjepanglive.pages.dev/sitemap.xml
+Sitemap: https://bokepdoggy.pages.dev/sitemap.xml
